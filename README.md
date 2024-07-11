@@ -27,7 +27,13 @@
 <br />
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-  
+
+<h2 align="center"> 📞 Contanct Whit me </h2>
+
+<a href="https://www.instagram.com/alifakhrodin.js"> <img alt="instagram" src="https://github.com/ali-fakhrodin/ali-fakhrodin/blob/main/icons8-insta-75.png" /> </a>
+<a href="https://t.me/alifakhrodin1"> <img alt="telegram" src="https://github.com/ali-fakhrodin/ali-fakhrodin/blob/main/icons8-telegram-75.png" /> </a>
+<a href="alifakhrodin@gmail.com"> <img alt="email" src="https://github.com/ali-fakhrodin/ali-fakhrodin/blob/main/icons8-email-75.png" /> </a>
+
 
 ## My activity on GitHub 📊
 ![activity](https://github-readme-stats.vercel.app/api?username=ali-fakhrodin&show_icons=true&theme=merko)
