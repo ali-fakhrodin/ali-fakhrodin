@@ -33,9 +33,11 @@
 
 <h2 align="center"> 📞 Contanct Whit me </h2>
 
-<a href="https://www.instagram.com/alifakhrodin.js"> <img alt="instagram" src="https://github.com/ali-fakhrodin/ali-fakhrodin/blob/main/icons8-insta-75.png" /> </a>
-<a href="https://t.me/alifakhrodin1"> <img alt="telegram" src="https://github.com/ali-fakhrodin/ali-fakhrodin/blob/main/icons8-telegram-75.png" /> </a>
-<a href="alifakhrodin@gmail.com"> <img alt="email" src="https://github.com/ali-fakhrodin/ali-fakhrodin/blob/main/icons8-email-75.png" /> </a>
+<div align="center">
+<a href="https://www.instagram.com/alifakhrodin.js"><img alt="instagram" src="https://github.com/ali-fakhrodin/ali-fakhrodin/blob/main/icons8-insta-75.png"/></a> --------  
+<a href="https://t.me/alifakhrodin1"><img alt="telegram" src="https://github.com/ali-fakhrodin/ali-fakhrodin/blob/main/icons8-telegram-75.png"/></a> --------
+<a href="alifakhrodin@gmail.com"><img alt="email" src="https://github.com/ali-fakhrodin/ali-fakhrodin/blob/main/icons8-email-75.png"/></a>
+</div>
 
 
 ## My activity on GitHub 📊
