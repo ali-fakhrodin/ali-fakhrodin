@@ -9,9 +9,12 @@
   <img width="100%" height="270x" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" />
 <p/>
 
-<h2 align="center"> <img width="30px" height="30px" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" />  My Tools </h2>
+<h2 align="center">I'm Ali Fakhrodin</h2>
+<p align="center">Frontend developer ⌨ | Love to learning more... 📚 | Interested in cooperation 🤝 </p>
 
 <br />
+
+<h2 align="center"> <img width="30px" height="30px" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" />  My Tools </h2>
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
