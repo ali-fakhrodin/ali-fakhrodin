@@ -34,10 +34,10 @@
 - 🌐 &nbsp; My favorite language is `Java Script`
 
 <h2 align="center">My GitHub Stats 📊</h2>
-<div href="https://github.com/ali-fakhrodin/" align="center">
+<a href="https://github.com/ali-fakhrodin/" align="center">
 <img alt="activity" src="https://github-readme-stats.vercel.app/api?username=ali-fakhrodin&show_icons=true&theme=merko" />
 <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-fakhrodin&hide_progress=true" />
-</div>
+</a>
 
 <br />
 
