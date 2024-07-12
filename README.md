@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hi there i’m Ali Fakhrodin </h1>
 
-<!--
-- 💻 I'm iranian `frontend developer`
-- 🌱 I’m currently `learning React.js`
--->
-
 <p align="center">
   <img width="100%" height="270x" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" />
 <p/>
@@ -31,6 +26,21 @@
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
+<h2 align="center">More about me...</h2>
+
+- 💻 &nbsp; I'm iranian `frontend developer`
+  - HTML - CSS - JS
+- 🌱 &nbsp; I’m currently `learning React.js`
+- 🌐 &nbsp; My favorite language is `Java Script`
+
+<h2 align="center">My GitHub Stats 📊</h2>
+<div href="https://github.com/ali-fakhrodin/" align="center">
+<img alt="activity" src="https://github-readme-stats.vercel.app/api?username=ali-fakhrodin&show_icons=true&theme=merko" />
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-fakhrodin&hide_progress=true" />
+</div>
+
+<br />
+
 <h2 align="center"> 📞 Contanct Whit me </h2>
 
 <div align="center">
@@ -38,10 +48,3 @@
 <a href="https://t.me/alifakhrodin1"><img alt="telegram" src="https://github.com/ali-fakhrodin/ali-fakhrodin/blob/main/icons8-telegram-75.png"/></a> --------
 <a href="alifakhrodin@gmail.com"><img alt="email" src="https://github.com/ali-fakhrodin/ali-fakhrodin/blob/main/icons8-email-75.png"/></a>
 </div>
-
-
-## My activity on GitHub 📊
-![activity](https://github-readme-stats.vercel.app/api?username=ali-fakhrodin&show_icons=true&theme=merko)
-
-## Languages that i worked with them </>
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-fakhrodin&hide_progress=true)
