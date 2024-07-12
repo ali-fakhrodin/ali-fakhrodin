@@ -35,16 +35,18 @@
 
 <h2 align="center">My GitHub Stats 📊</h2>
 <a href="https://github.com/ali-fakhrodin/" align="center">
-<img alt="activity" src="https://github-readme-stats.vercel.app/api?username=ali-fakhrodin&show_icons=true&theme=merko" />
+<img alt="activity" src="https://github-readme-stats.vercel.app/api?username=ali-fakhrodin&show_icons=true&theme=merko" /> &nbsp;
 <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-fakhrodin&hide_progress=true" />
 </a>
 
 <br />
 
-<h2 align="center"> 📞 Contanct Whit me </h2>
+<h2 align="center"> 📞 Contanct With me </h2>
 
 <div align="center">
 <a href="https://www.instagram.com/alifakhrodin.js"><img alt="instagram" src="https://github.com/ali-fakhrodin/ali-fakhrodin/blob/main/icons8-insta-75.png"/></a> --------  
 <a href="https://t.me/alifakhrodin1"><img alt="telegram" src="https://github.com/ali-fakhrodin/ali-fakhrodin/blob/main/icons8-telegram-75.png"/></a> --------
-<a href="alifakhrodin@gmail.com"><img alt="email" src="https://github.com/ali-fakhrodin/ali-fakhrodin/blob/main/icons8-email-75.png"/></a>
+<a href="https://alifakhrodin@gmail.com"><img alt="email" src="https://github.com/ali-fakhrodin/ali-fakhrodin/blob/main/icons8-email-75.png"/></a>
 </div>
+
+Whats app `+989053204673`
